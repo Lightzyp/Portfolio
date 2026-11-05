@@ -6,7 +6,7 @@ An index of software, database and security work, mostly from coursework at East
 
 A Blazor web application for managing books, users, loans and returns. Book and user records are saved to CSV, and the service layer prevents a book from being borrowed twice.
 
-- **Stack:** C#, ASP.NET Core Blazor, .NET 8, CSV files, xUnit
+- **Stack:** C#, ASP.NET Core Blazor, .NET 8, CSV files, MSTest
 - **Skills:** service-layer design, dependency injection, unit test authoring
 - **Context:** coursework
 - **Code:** [Lightzyp/Lab-6](https://github.com/Lightzyp/Lab-6)
